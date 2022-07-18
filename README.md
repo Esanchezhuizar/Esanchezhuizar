@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Esanchezhuizar and I am a rising Junior at Bowdoin College studying Mathematics and Computer Science.
+- 👋 Hi, I’m @Esanchezhuizar and I am a Senior at Bowdoin College studying Mathematics and Computer Science.
 - 👀 I’m interested in big data, artifical intelligence, and web development. 
 - 🌱 I’m currently doing research on the International War on Drugs and mapping violence/migration patterns using Python and Tableau. 
 - 📫 To reach me, connect with me on LinkedIn at www.linkedin.com/in/edwinsanchezhuiza
